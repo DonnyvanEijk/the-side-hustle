@@ -50,12 +50,31 @@ justify-content: center;
 
 
 
+.hustleclick {
+    width:30vw;
+    height:40vh;
+    transition: 600ms ease;
+    opacity: 0.8;
+}
 
+.hustleclick:hover {
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+.hustleclick:active {
+    transform: scale(1.2);
+}
 
 
     
 
-
+.maintitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 
 
 
