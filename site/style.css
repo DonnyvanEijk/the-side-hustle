@@ -38,6 +38,14 @@ justify-content: center;
     padding:15px;
 }
 
+.new-l p {
+ 
+display: flex;
+justify-content: center;
+    padding:5px;
+}
+
+
 
 
 
@@ -52,14 +60,15 @@ justify-content: center;
 
 
 .most-p{
-    position: relative;
-    top:0;
+    position:absolute;
+    top:12rem;;
     left:52vw;
     width:40vw;
     background-color: rgb(15, 0, 113);
     height:auto;
  background-image: radial-gradient( rgb(11,0,83) 0%, rgba(11, 0, 82, 0.849) 100%);
  border-radius: 10px;;
+ z-index: 3;
 
     
     

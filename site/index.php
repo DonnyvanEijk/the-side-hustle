@@ -15,12 +15,13 @@
         </div>
     </div>
     <div class='new-l'>
-            <h2>New Releases</h2>
+            <h2>Hustles</h2>
+            <P class="clicker"><a style="text-decoration:none; color:white;"href="./hustle/clicker/index.php">Clicker hustle</a></p>
+            <P>Hustle 2</p>
+
         </div>
 
-     <div class='most-p'>
-            <h2>Most played games</h2>
-        </div>
+  
 
 
 
