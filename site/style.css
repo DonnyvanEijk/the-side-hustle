@@ -19,7 +19,7 @@ body {
 .new-l{
     position: relative;
     top: 5rem;
-    left:5rem;
+    left:5vw;
     width:40vw;
     background-color: rgb(15, 0, 113);
     height:auto;
@@ -54,7 +54,7 @@ justify-content: center;
 .most-p{
     position: relative;
     top:0;
-    left:85rem;
+    left:52vw;
     width:40vw;
     background-color: rgb(15, 0, 113);
     height:auto;
